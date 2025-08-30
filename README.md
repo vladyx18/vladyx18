@@ -1,48 +1,92 @@
-Reorder Sections
-Preview
-Markdown
-Copy
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vladimir Munrayos
-==========================================================================================================================================
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Vladimir Munrayos</h1></summary>
+  </ul>
+</div>
 
-SR. Frontend Developer | Tech Lead Frontend
--------------------------------------------
 
-Senior Front-End Developer and Tech Lead with over six years of experience in designing and developing impactful and
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-functional user interfaces. Specialized in leading development teams in the implementation of innovative web solutions, my
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFmMmE5djFnNG0wejNpaWJhN3VvYmJ0NzIzMTZ0b2ZuOTc4YmZwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width = 250px></picture>
 
-approach blends advanced technical skills in HTML5, CSS3, JavaScript, TypeScript, and React.js with strong management
+<br><br>
 
-capabilities. I succeed in team leadership, process optimization, and cross-departmental collaboration to achieve strategic
+- :school: I am a `Systems Engineer` at [Faculty of Computers & Informatics](https://umg.edu.gt/ingenieria) at [University Mariano Gálvez](https://umg.edu.gt/).
+- :technologist: I love using Software to generate solutions for every `Problem`.
+- :nerd_face:: Always learning the new tendencies of the `Software` and `Frontend` development.
+- :rocket: Always searching for new opportunities.
+<br>
 
-objectives and deliver high-quality technology products. My leadership is strengthened by effective communication, informed
+## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdqazcxdHlpNzJuNzh6aHRpaTQwM2l6OWtuaHlqeWZqcXRuejI3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width = 50px></picture> My Tech Stack
 
-decision-making, and an unwavering commitment to continuous improvement.
-
-* 🌍  I'm based in Guatemala
-* ✉️  You can contact me at [vlady.munrayos@hotmail.com](mailto:vlady.munrayos@hotmail.com)
-* 🧠  I'm currently learning more of the new tendencies of frontend development everyday 🤓
-
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Main Frontend Technologies and Utilities</h2></summary>
+  </ul>
+</div>
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" alt="Babel" title="Babel" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://remix.run/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored-dark.svg" alt="Remix" title="Remix" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,html,css,javascript,typescript,jquery,babel,webpack,nodejs,bun,yarn,npm,jest,vitest,figma&perline=14"
+    />
+  </a>
 </p>
 
-### Socials
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Main Frameworks</h2></summary>
+  </ul>
+</div>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=react,next,remix,vite,redux,zustand,stripe&perline=14"
+    />
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/ vladyx18" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/vladimir-munrayos-/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/ vladyx18" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ vladyx18?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
-### Badges
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Main Styles Frameworks</h2></summary>
+  </ul>
+</div>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,shadcn,materialui,sass,styledcomponents&perline=14"
+    />
+  </a>
+</p>
 
-<b>My GitHub Stats</b>
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Main Databases and Integrations</h2></summary>
+  </ul>
+</div>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=postman,reactquery,graphql,mysql,mongodb,supabase,firebase,sqlite,postgres,sqlserver&perline=14"
+    />
+  </a>
+</p>
 
-<a href="http://www.github.com/ vladyx18"><img src="https://github-readme-stats.vercel.app/api?username= vladyx18&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt=" vladyx18's GitHub stats" /></a>
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Main Cloud & Deployment </h2></summary>
+  </ul>
+</div>
 
-<a href="http://www.github.com/ vladyx18"><img src="https://github-readme-streak-stats.herokuapp.com/?user= vladyx18&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,netlify,docker&perline=14"
+    />
+  </a>
+</p>
 
-<a href="https://github.com/ vladyx18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username= vladyx18&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ vladyx18/https://github.com/grupodistelsa/dist-ksm-fe-marketplace-cabinet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username= vladyx18&repo=https://github.com/grupodistelsa/dist-ksm-fe-marketplace-cabinet&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTluMjVjMnhiaWEzNW1vODk0NjdsbDQwaGxvd2I4OTZ4eWg2bHVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cHw1sFUAfZcZfcLjq9/giphy.gif" width = 50px></picture> Contact Me!
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&perline=14)](https://www.linkedin.com/in/vladimir-munrayos-/?locale=en_US)
+[![Outlook](https://go-skill-icons.vercel.app/api/icons?i=outlook&perline=14)](mailto:vlady.munrayos@hotmail.com)
