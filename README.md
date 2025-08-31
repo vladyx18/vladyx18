@@ -87,6 +87,14 @@
 
 <br>
 
+## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFpemM2eGk1NGg2ZWZqeXp6MWJsem80cnR2cW02OXpxMTF3aXk0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RVWSqOsgDAq0W3051o/giphy.gif" width = 50px></picture> Github Stats
+[![](https://github-readme-stats.vercel.app/api?username=vladyx18&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/vladyx18)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=vladyx18&theme=material-palenight)](https://github.com/vladyx18)
+
+<br>
+
 ## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTluMjVjMnhiaWEzNW1vODk0NjdsbDQwaGxvd2I4OTZ4eWg2bHVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cHw1sFUAfZcZfcLjq9/giphy.gif" width = 50px></picture> Contact Me!
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&perline=14)](https://www.linkedin.com/in/vladimir-munrayos-/?locale=en_US)
 [![Outlook](https://go-skill-icons.vercel.app/api/icons?i=outlook&perline=14)](mailto:vlady.munrayos@hotmail.com)
+
+
