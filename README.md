@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,html,css,javascript,typescript,jquery,babel,webpack,nodejs,bun,yarn,npm,jest,vitest,figma&perline=14"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,html,css,javascript,typescript,jquery,babel,webpack,nodejs,bun,yarn,npm,jest,vitest,figma&perline=7"
     />
   </a>
 </p>
@@ -40,7 +40,7 @@
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=react,next,remix,vite,redux,zustand,stripe&perline=14"
+      src="https://go-skill-icons.vercel.app/api/icons?i=react,next,remix,vite,redux,zustand,stripe&perline=7"
     />
   </a>
 </p>
@@ -53,7 +53,7 @@
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,shadcn,materialui,sass,styledcomponents&perline=14"
+      src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,shadcn,materialui,sass,styledcomponents&perline=7"
     />
   </a>
 </p>
@@ -66,7 +66,7 @@
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=postman,reactquery,graphql,mysql,mongodb,supabase,firebase,sqlite,postgres,sqlserver&perline=14"
+      src="https://go-skill-icons.vercel.app/api/icons?i=postman,reactquery,graphql,mysql,mongodb,supabase,firebase,sqlite,postgres,sqlserver&perline=7"
     />
   </a>
 </p>
@@ -80,7 +80,7 @@
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,netlify,docker&perline=14"
+      src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,netlify,docker&perline=7"
     />
   </a>
 </p>
