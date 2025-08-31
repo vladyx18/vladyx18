@@ -88,7 +88,6 @@
 <br>
 
 ## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFpemM2eGk1NGg2ZWZqeXp6MWJsem80cnR2cW02OXpxMTF3aXk0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RVWSqOsgDAq0W3051o/giphy.gif" width = 50px></picture> Github Stats
-[![](https://github-readme-stats.vercel.app/api?username=vladyx18&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/vladyx18)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=vladyx18&theme=material-palenight)](https://github.com/vladyx18)
 
 <br>
