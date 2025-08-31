@@ -11,7 +11,7 @@
 
 <br><br>
 
-- :school: I am a `Systems Engineer` at [Faculty of Computers & Informatics](https://umg.edu.gt/ingenieria) at [University Mariano Gálvez] of Guatemala(https://umg.edu.gt/).
+- :school: I am a `Systems Engineer` at [Faculty of Computers & Informatics](https://umg.edu.gt/ingenieria) at [University Mariano Gálvez](https://umg.edu.gt/) of Guatemala.
 - :technologist: I love using Software to generate solutions for every `Problem`.
 - :nerd_face:: Always learning the new tendencies of the `Software` and `Frontend` development.
 - :rocket: Always searching for new opportunities.
@@ -40,7 +40,7 @@
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=react,next,remix,vite,redux,zustand,stripe&perline=7"
+      src="https://go-skill-icons.vercel.app/api/icons?i=react,next,remix,vite,zustand,redux,stripe&perline=7"
     />
   </a>
 </p>
